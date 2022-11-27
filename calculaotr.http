@@ -1,0 +1,14 @@
+### Заголовок
+GET http://localhost:8080/calculator
+
+### Cумма чисел
+GET http://localhost:8080/calculator/plus?num1=7&num2=2
+
+### Разность чисел
+GET http://localhost:8080/calculator/minus?num1=8&num2=9
+
+### Произведение чисел
+GET http://localhost:8080/calculator/multiply?num1=10&num2=11
+
+### Частное чисел
+GET http://localhost:8080/calculator/divide?num1=7&num2=0
